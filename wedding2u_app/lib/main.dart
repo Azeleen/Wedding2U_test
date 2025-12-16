@@ -1,3 +1,5 @@
+// This is testing for SMCM project.
+
 import 'package:flutter/material.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:wedding2u_app/presentation/screens/general/landing_page.dart';
