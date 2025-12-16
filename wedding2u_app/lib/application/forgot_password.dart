@@ -1,5 +1,5 @@
 // forgot_password_logic.dart
-// Testing SMCM Project
+// Testing SMCM Project_2
 import 'package:wedding2u_app/data/firebase_auth_service.dart';
 
 class ForgotPasswordLogic {
