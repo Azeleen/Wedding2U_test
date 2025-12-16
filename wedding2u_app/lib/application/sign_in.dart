@@ -1,3 +1,5 @@
+// testing for SMCM project
+
 import 'package:wedding2u_app/data/firebase_auth_service.dart';
 import 'package:wedding2u_app/data/firestore_service.dart';
 
